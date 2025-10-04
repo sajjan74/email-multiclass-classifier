@@ -108,9 +108,9 @@ Roadmap
 Add cross‑validation metrics (macro/micro F1) to the saved bundle.
 
 
-Also Check our journal: https://www.ijsat.org/research-paper.php?id=7826
 Provide a lightweight schema migration script.
 
 Optional threshold tuning per class and calibrated probabilities.
 
 Containerize training/inference for portable deployment.
+Also Check our journal: https://www.ijsat.org/research-paper.php?id=7826
